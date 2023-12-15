@@ -1,0 +1,7 @@
+{
+  "name": "ventanasmodales",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
